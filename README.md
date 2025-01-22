@@ -1,2 +1,2 @@
-# DeveloperBot
-DeveloperBots
+# Lunabot
+Lunabot => DashboardMusicBot for discord!
